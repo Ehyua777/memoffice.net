@@ -18,4 +18,3 @@ else
 {
 	require('selected-one.php');
 }
-?>

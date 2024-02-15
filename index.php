@@ -1,1 +1,1 @@
-<?php require('Pages/home/index.php'); ?>
+<?php require('Pages/home/index.php');

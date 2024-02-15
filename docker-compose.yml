@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  memoffice:
+    image: memoffice
+    build:
+      context: .
+      dockerfile: ./Dockerfile
